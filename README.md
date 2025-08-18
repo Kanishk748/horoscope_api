@@ -1,2 +1,1 @@
-# horoscope_api
-basic apis for horoscope 
+code is written with the help of chatgpt
